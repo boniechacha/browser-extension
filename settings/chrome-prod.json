@@ -4,6 +4,7 @@
 
 
   "apiUrl": "https://hypothes.is/api/",
+  "termsApiUrl": "http://localhost:8080/api/v1/term'",
   "authDomain": "hypothes.is",
   "bouncerUrl": "https://hyp.is/",
   "serviceUrl": "https://hypothes.is/",

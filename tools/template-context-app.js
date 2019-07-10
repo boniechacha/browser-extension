@@ -12,6 +12,7 @@ const path = require('path');
 function appSettings(settings) {
   let result = {};
   result.apiUrl = settings.apiUrl;
+  result.termsApiUrl = settings.termsApiUrl;
   result.assetRoot = '/client/';
   result.authDomain = settings.authDomain;
   result.serviceUrl = settings.serviceUrl;
